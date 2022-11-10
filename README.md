@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=KGoutham7214&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KGoutham7214&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KGoutham7214&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KGoutham7214&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KGoutham7214&icon=5&color=0)](https://visitcount.itsvg.in)
