@@ -1,5 +1,5 @@
 # 😉 About me:
-🤠 I'm currently learning Blockchain development<br>🤠 I'm currently working on E-commerce using React<br>🤠 I write code in  C, Java, Python, NodeJS, etc.
+🤠 I'm currently working on E-commerce using React<br>🤠 I write code in  C, Java, Python, NodeJS, etc.
 
 
 ## 🌐 Socials:
